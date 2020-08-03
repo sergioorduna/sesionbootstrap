@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.nav{
+    background-color: darkorange;
+
+
+}
+
+#carouselExampleControls{
+    background-color: white;
+}
+
+img{
+   display: flex;
+   height: 500px;
+   
+   
+   
+}
+
+.jumbotron{
+    background-image: url(./assets/css/img/estadiogente.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+h2{
+    color: white;
+}
+
+.lead{
+    color: white;
+}
+
+.jumbotron p{
+    color: white;
+}
